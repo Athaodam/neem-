@@ -6,11 +6,11 @@
 
 
 
-The Tree of all Trades
+##The Tree of all Trades
 
 Azadirachta Indica or neem has historically provided many people, animals, and surrounding plants with a wide range of support and benefits. Whether it’s offering cooling shade, warding off pests, healing you, or filling your belly, neem effortlessly does it all. The plant is so beloved and celebrated by many that the United Nations gave it the designation of “Tree of the 21st century”. This was also echoed in a report by the United States’ National Academy of Science, which referred to Neem as a “tree for solving global problems”, alluding to its multitude of applications. 
 
-Botanical details
+##Botanical details
 
 Neem is a rapidly growing, medium-sized tree which can usually reach up 15 to 20 meters tall. However, in ideal conditions, it is possible for the tree to grow up to 30 to 35 meters. Its profile is characterised by a dense, leafy, rounded canopy. These canopies are incredibly beneficial for the forest ecosystems in which it grows because their structure provides exceptional canopy protection for other organisms and the environments they are embedded in. This means that the trees’ crowns, or branches and leaves which protrude from the main trunk, easily interconnect together.  As a result, neem provides consistent cooling-shade, which helps protect and maintain soil health by combating soil erosion and the damaging impacts of harsh direct sunlight. A free-standing neem tree can provide ovular shade coverage with a possible diameter of 15 to 20 meters. While it is typically an evergreen tree, extreme conditions and circumstances, such as prolonged drought, may cause extensive leaf fall and shedding – a possible concern for cultivation, as climate change impacts increase instances of extreme weather events.
 
@@ -18,12 +18,12 @@ Its bark has a grooved texture, which may range from deeply fissured to scaly, d
 
 Neem leaves are a glossy green, and tend to crowd together at the ends of branches. These leaves are unpaired pinnates, which compound, meaning that they connect across both sides of the leaf’s stalk. At a glance, the leaves may resemble quills of feathers. 
 
-Growth and Dispersion
+##Growth and Dispersion
 
 While the exact native range of the species is debated, it is thought to be native to the Indian Sub-continent and Southeast Asia. According to Kew Gardens, the native range for neem is Assam to Indo-China which includes Assam, Bangladesh, Cambodia, Laos, Myanmar, Thailand, and Vietnam. The dispersion of neem has been widely facilitated through various introductions, namely in arid tropical and subtropical areas around the world. In the table below, we have provided a summary of places neem has been documented as being introduced, namely: Andaman Island, Aruba, Burkina, Cameroon, Central African Repu, Chad, Cuba, Dominican Republic, East Himalaya, Ecuador, El Salvador, The Gambia, Ghana, Guinea, Guinea-Bissau, Haiti, Hawaii, India, Iran, Jamaica, Jawa, Kenya, Laccadive Island, Leeward Island, Lesser Sunda Island, Malaya, Mauritania, Mauritius, Mexico Northwest, Nepal, Netherlands Antilles, Niger, Nigeria, Oman, Pakistan, Puerto Rico, Rwanda, Réunion, Somalia, Sri Lanka, Sudan, Sumatera, Tanzania, Togo, Trinidad-Tobago, Uganda, and Windward Island. 
 
 
-Naming the Neem
+##Naming the Neem
 
 As a result of its global impact and dispersion, many languages have their own specific names – some examples are listed below – please note that there are many more. In Cambodia, neem is widely called ស្តៅ or “Sdao”. This overlap and sharing of linguistic legacy is evident in the the latinised scientific name Azadirachta indica, as it is derived from the Persian one, چریش (Azad-dirakht-i-hindi). When broken down, “Azad” can be translated to “free”, “dirakht” means “tree”, and “i-Hind” refers to “of Indian Origin”. 
 
@@ -65,7 +65,7 @@ Japanese
 
 In a similar vein, neem also has several scientific synonyms – 13 to be exact. Its homotypic synonym is Melia indica (A. Juss.) Brandis. Comparatively, it has many more heterotypic synonyms which include: Antelaea azadirachta  (L.) Adelb., Anelaea canescens Cels ex Heynh., Antelaea javanica Gaertn., Azadirachta indica var. Minor Valeton., Azadirachta indica var siamensis Valeton., Azadirachta indica subsp. Vartakii Kothari, Londhe & N.P. Singh, Melia azadirachta L., Melia fraxinifolia Salisb., Melia hasskarlii K.Koch, Melia japonica Hassk., Melia parviflora Moon, and Melia pinnata Stokes. No matter what name you may be using, one thing is clear: it is a widely known and beloved plant.
 
-Global Movements
+##Global Movements
 
 Due to its wide variety of uses, it’s no shock that neem has made its way swiftly around the globe. Such versatility has led to different waves of trades and exchanges, not only among merchants, but also between immigrant populations and the communities they move and inevitably become a part, whether by choice or coercion. Though we like to think that plants, with all of their methods of movement spread on their own, humans have a great role to play in their dispersion – whether we are aware of it or not. Some might have brought neem across the oceans to share and enjoy in their new surroundings, while others may have been forced to manage the natural resources of their colonial masters.
 
@@ -75,7 +75,7 @@ Countries have their own individual histories of introduction. In Sudan, the fir
 
 
 
-A Historical Helper
+##A Historical Helper
 
 As previously mentioned, neem’s morphological structure allows it to be a very effective shade providing tree. Due to this, neem trees find themselves regularly incorporated into urban and landscape designing projects and initiatives. These can range from attempts to prevent desertification along paved roadsides to providing ample shade in public spaces. For example, in Saudi Arabia, over 50,000 neem trees have been planted around to alleviate heat concerns among Muslim pilgrims, who must camp near Mount Afarat, as part of their Hajj rites on their journey towards Mecca. The Senegalese city of Thiès, 95 percent of the trees within the urban limits are neem trees, demonstrating the effective hold that the plant has on the sector of urban forestry. 
 
@@ -84,7 +84,7 @@ Neem has also been planted to promote reforestation in at-risk areas, as it prot
 In the Indian village of Shapar, architects have designed a primary school aptly named “School Under A Neem” which incorporates local neem trees into its design and mission. The school builds upon a supposed Indian learning tradition of sitting under a tree, which has since been taken upon as a model by a couple of local Indian NGOs, as a means of providing under-privileged students living in slums accessible primary education. 
 
 
-The Joys of Eating Neem 
+##The Joys of Eating Neem 
 
 Neem is widely eaten across the world, with many preparations experimenting with its distinct bitter taste. The parts which are eaten include but are not limited to the leaves, flowers, and fruits.
 
@@ -99,7 +99,7 @@ In India, neem leaves are prepared as chutney, pickles, and added to stews, soup
 In Thiès, Senegal, the city government allows residents to regularly forage and eat the neem fruits which grow abundantly. This provides the city’s community and lucky visitors with a stable source of food whenever they may need it. 
 
 
-Plant Panacea?
+##Plant Panacea?
 
 Neem has been often referred to as a ‘plant panacea’ or ‘the village pharmacy’ because of its many therapeutic capabilities and effects. Additional nicknames for neem include “the village pharmacy” or “divine tree”, which demonstrate the extent to which it is perceived as a miraculous cure-all medicinal plant in several communities and cultures in which it is used. It is considered a staple in Traditional, Complementary, and Alternative Medicine (TCAM) systems such as Ayurveda, Unani, Homoeopathy, and beyond. In Cambodia, neem is used extensively within the indigenous Traditional Khmer Medicine (TKM) system, as well as in other non-indigenous traditional medical systems practiced in-country. Presently, more than 140 different compounds have been isolated from different parts of the plant. Such insights are unsurprising once you consider that the entirety of the plant has been used across traditional medicinal regimens and treatment methods – from flower and seed, to bark and beyond.  Substantial amounts of biomedical research have demonstrated that the plant possesses anti-fungal, anti-bacterial, anti-cariogenic, immunomodulatory, anti-inflammatory, antihyperglycaemic, antiulcer, antimalarial, antifungal, antibacterial, antiviral, antioxidant, and antimutagenic properties. For these reasons, neem and its derived extracts, have been used to prevent, manage, and treat a wide array of diseases and conditions with differing levels of urgency and severity. From preventing malaria-ridden mosquito bites and dental decay to avoiding cardiac events and fighting cancer, neem provides users with an accessible way to manage their health issues on their own terms. Smallpox? No problem for neem! In fact, within the Ayurvedic medicine, it is encouraged to consume neem on a daily basis as a prophylaxis – with each leaf, or other part of the plant, believed to ensure and maintain health.
 
@@ -110,7 +110,7 @@ However, similar to any medicine, there are limits to the therapeutic and healin
 
 
 
-Arts, Culture, and Beyond
+##Arts, Culture, and Beyond
 
 Neem holds exceptional cultural significance in India, where it appears in epic stories, religious ceremonies, and as part of cultural practices. At times, they are also believed to embody religious deities and represent ethical ideals. While it is easy to assume that all neem trees are sacred and important, much attention is paid to those specifically growing near or within areas of worship such as nearby temples. In Indian folklore and mythology contain several references to neem. First, the neem plant is associated with Surya, the Sun Shiva. This is due to a story where, in attempts to hide from demons chasing him, he took refuge in the tree. Another deity, the Goddess Durga (also called Shitala), is associated with neem. Worshippers of the Goddess Durga often wrap neem tree trunks with ornate pieces of fabric and adorn it with facemasks, in an attempt to personify her further and allow for more intimate connections. Neem is also planted around or incorporated into religious deities and related sculptures; at times, you can find stone snakes carefully crafted around them, demonstrating a mutualistic relationship between the natural and divine. 
 
@@ -122,14 +122,14 @@ Neem flowers are also regularly a part of 24-type floral bouquets, which are oft
 
 In Tamil Nadu in the south of India, neem trees participate in ceremonial tree marriages, as they are believed to embody deities and have their own personage. Neem trees are often married to Pipal (Ficus religiosa) trees – with neem trees being perceived as an embodiment of the divine feminine and the pipal linked to the embodiment of divine masculinity.
 
-Biopiracy
+##Biopiracy
 
 Across the years, several attempts have been made by various companies to patent the neem plant in multiple ways around the world. These include patents focused on specific parts of the plant, its applications, products derived from the plant, or even related processes. Currently, the top five countries in the world which hold patents relating to neem are (1) The United States with 54 patents, (2) Japan with 35 patents, (3) Australia with 23 patents, and India with 14 patents. However, it should be noted that India has approximately 53 ongoing patent applications, and in the event of their collective granting, the country will hold the global record for most patents relating to neem. 
 
 For this reason, the case of neem is often cited as a pivotal moment for the discourse on biopiracy, when a U.S. company called W.R. Grace & Co. holding a patent relating to a neem formulation, clashed with Indian company AgriDyne over the rights of usage. The term “biopiracy” refers to the “appropriation of the knowledge and genetic resources of farming and Indigenous communities by individuals that seek exclusive monopoly control (e.g. patents and or intellectual property) over these resources and knowledge”. Simply, it’s the commodification of well-known, traditional knowledge of the natural world, typically held by Indigenous groups, with no acknowledgement nor compensation. These tensions had global implications, including the annulment of a European Union based patent on a neem formulation as an anti-fungicide, showcasing the complexities of navigating the legalities of biotechnological innovations and advancements drawn from traditional ecological knowledge.
 
 
-Growing Your Own
+##Growing Your Own
 Given its global success, growing neem isn’t as difficult as one might think. Ideally, tropical conditions and sustained access to sunlight are favorable. Seeds should be taken from overripe fruits and sown as soon as possible. While it is possible to raise seedlings in a nursery setting, planting directly has been noted to yield more success. Neem may be planted within a wide range of soil compositions such as well-drained sandy soils, silty or micaceous loams, and silty clays. The young plants grow quite rapidly, about 2 to 3 centimeters of girth a year at least, and so enthusiastically that they might push and displace the roots of other nearby plants – so carefully consider your placement. 
 
 It is remarkably resilient to environmental changes; while young seedlings may succumb to fire, mature trees quickly regenerate from even severe damage, simply by pruning away destroyed parts. Despite this, they are not great candidates for areas with heavy winds and storms, as they are relatively brittle and parts snap off easily. Luckily, because of its bitter taste, foraging wild animals nor livestock graze upon them. 
@@ -152,22 +152,4 @@ Neem is a natural ally for both plants and people, acting as a potent pesticide 
 
 
 
-
-
-
-References Consulted (in addition to those linked)
-https://www.nparks.gov.sg/florafaunaweb/flora/2/7/2738
-https://pubmed.ncbi.nlm.nih.gov/35957716/
-https://apps.worldagroforestry.org/usefultrees/pdflib/Azadirachta_indica_KEN.pdf
-https://www.thaitable.com/thai/ingredient/neem
-https://baca-villa.com/neem-moringa/neem-protect-moringa-leaves-en-environment/
-https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/Azadirachta_indica_(Neem).htm
-https://www.thaicookbook.tv/thai-food-ingredients/flowers-and-tree-leaves/neem-tree-sadow/ 
-https://neemfoundation.org/about-neem/history-of-usage/
-
-https://www.feedipedia.org/node/182
-https://iks.ukzn.ac.za/sites/default/files/Ethnobotanical.pdf
-
-
-https://globaldesignnews.com/designed-around-a-neem-tree-this-school-extension-in-india-by-komal-dhulia-of-dhulia-architecture-design-studio-features-plays-of-light-with-thoughtful-framing-of-views-to-the-outside/
 
