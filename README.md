@@ -4,7 +4,7 @@
 <param ve-config 
        title="Neem ស្តៅ (Azadirachta indica)"
        author="Ashley Thuthao Keng Dam, Ph.D."
-       banner="https://commons.wikimedia.org/wiki/File:Azadirachta_indica,_leaves_%26_fruits.JPG](https://upload.wikimedia.org/wikipedia/commons/4/45/Azadirachta_indica%2C_leaves_%26_fruits.JPG" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/4/45/Azadirachta_indica%2C_leaves_%26_fruits.JPG" 
        layout="vertical">
 
 
