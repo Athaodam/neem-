@@ -5,7 +5,7 @@
        title="Neem ស្តៅ (Azadirachta indica)"
        author="Ashley Thuthao Keng Dam, Ph.D."
        banner="https://commons.wikimedia.org/wiki/File:Azadirachta_indica,_leaves_%26_fruits.JPG" 
-       layout="vertical">
+       layout="horizontal">
 
 
 
