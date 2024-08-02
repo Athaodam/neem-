@@ -1,5 +1,8 @@
+
+<a href="https://juncture-digital.org/athaodam/plant-planet-plate"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+
 <param ve-config 
-       title="Coconut ដូង (Cocos nucifera)"
+       title="Neem ស្តៅ (Azadirachta indica)"
        author="Ashley Thuthao Keng Dam, Ph.D."
        banner="https://upload.wikimedia.org/wikipedia/commons/3/37/River_bank_of_Don_Khon_with_stilt_wooden_houses_at_golden_hour_from_Don_Det_Laos.jpg](https://commons.wikimedia.org/wiki/File:Azadirachta_indica,_leaves_%26_fruits.JPG" 
        layout="vertical">
@@ -8,7 +11,7 @@
 
 ##The Tree of all Trades
 
-Azadirachta Indica or neem has historically provided many people, animals, and surrounding plants with a wide range of support and benefits. Whether it’s offering cooling shade, warding off pests, healing you, or filling your belly, neem effortlessly does it all. The plant is so beloved and celebrated by many that the United Nations gave it the designation of “Tree of the 21st century”. This was also echoed in a report by the United States’ National Academy of Science, which referred to Neem as a “tree for solving global problems”, alluding to its multitude of applications. 
+Azadirachta indica or neem has historically provided many people, animals, and surrounding plants with a wide range of support and benefits. Whether it’s offering cooling shade, warding off pests, healing you, or filling your belly, neem effortlessly does it all. The plant is so beloved and celebrated by many that the United Nations gave it the designation of “Tree of the 21st century”. This was also echoed in a report by the United States’ National Academy of Science, which referred to Neem as a “tree for solving global problems”, alluding to its multitude of applications. 
 
 ##Botanical details
 
